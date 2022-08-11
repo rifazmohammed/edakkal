@@ -1,0 +1,62 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Edakkal Hermitage - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_F569D4F9_E691_67C5_41BF_0917E862EC03.label = Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_0.label =  13Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_1.label =  01Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_10.label =  10Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_11.label =  11Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_12.label =  12Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_3.label =  03Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_4.label =  04Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_5.label =  05Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_6.label =  06Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_7.label =  07Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_8.label =  08Edakkal
+album_F569D4F9_E691_67C5_41BF_0917E862EC03_9.label =  09Edakkal
+panorama_EC48E3C3_E691_61C5_41E4_1CDAAAFDFDAB.label = Reception
+panorama_F5D6E66E_E6B1_E2DF_41C9_64E1AB01A702.label = Candle-lit cave
+panorama_F72A7937_E6B1_AE4D_41E8_2FE1F58C72B9.label = Edakkal Hermitage - Entrance
+panorama_F72A82F0_E6B6_A3C3_41EA_976BFEFF5604.label = Restaurant
+panorama_F72ACEBB_E6B6_A245_41E2_D718605C9102.label = Ajantha - 4 Bedroom Cottage
+panorama_F72AEB1E_E6B6_E27F_41CE_003115994B4F.label = View from Ajantha - 4 Bedroom Cottage
+panorama_F72B212D_E6B7_7E5D_41A1_94512A61A216.label = Ajantha - 4 Bedroom Cottage
+panorama_F72B2332_E6B7_A247_4186_FE61EDD44A07.label = Ajantha - 4 Bedroom Cottage
+panorama_F72B24C0_E6B6_A7C3_41D9_A0C50927CF5C.label = View from Lascaux
+panorama_F72B2E0C_E6B7_E243_41D5_A4D1DCC1C4FD.label = Altamira - Cottage
+panorama_F72B4038_E6B7_BE43_41E0_03F9D29CB44B.label = Altamira - Cottage
+panorama_F72B5A44_E6B7_E2C3_41E6_845AA8749BA6.label = Altamira - Cottage
+panorama_F72B6AB4_E6B6_E243_41E2_11A03A15B9E8.label = washroom - Lascaux
+panorama_F72B712E_E6B1_FE5F_41D1_40A7AEB2844E.label = Lobby
+panorama_F72B785C_E6B7_AEC3_41D2_7D35987E0C50.label = Washroom - Ajantha
+panorama_F72BC977_E6B6_AECD_41C5_38E7610A53FB.label = Lascaux
+panorama_F72BD2A6_E6B7_624F_41B7_F2ED37C6A585.label = Lascaux
+panorama_F72BF1CC_E6B7_61C3_41E4_7BB7890C7D5C.label = Washroom - Altamira
+panorama_F7D4E03E_E6B7_5EBF_41C4_FDDC70D37740.label = Ajantha - 4 Bedroom Cottage
+panorama_F7D52D16_E6B6_E64F_41B8_788661FF4F70.label = Ajantha - 4 Bedroom Cottage
+panorama_F7D547D7_E6B6_A1CD_41DD_AA2C67219D0A.label = Restaurant
+panorama_F7D57E1D_E6B1_627D_41A0_3F651E64BDFB.label = View from Edakkal Hermtage
+panorama_F7D5A4C6_E6B1_A7CF_41CE_526740573142.label = Amphitheatre
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://edakkal.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://edakkal.com
